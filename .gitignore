@@ -3,3 +3,13 @@
 
 # Fichiers locaux du projet
 projet-memory-game_pdf.pdf
+
+# Configuration locale et métadonnées
+.env
+.env.*
+!.env.example
+!.env.dist
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+*~

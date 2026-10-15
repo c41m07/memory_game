@@ -1,0 +1,8 @@
+# LF pour les seuls fichiers de workflow ; aucune normalisation globale.
+/Makefile text eol=lf
+*.mk text eol=lf
+/.editorconfig text eol=lf
+/.gitignore text eol=lf
+/.gitattributes text eol=lf
+/README.md text eol=lf
+/docs/DEV-WORKFLOW.md text eol=lf
